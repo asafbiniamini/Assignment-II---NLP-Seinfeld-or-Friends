@@ -1,0 +1,2 @@
+Test Set Accuracy,Train Set Accuracy,Number of Trainable Parameters,Number of Layers,Regularization Methods,Number of Epochs,Choice of Loss Function,Choice of Optimizer,Embedding Dimension
+0.832108133744368,0.8385558365073776,1611089,6,"L2, Dropout",6,binary_crossentropy,Adam,100
